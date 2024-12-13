@@ -1,2 +1,2 @@
 # AaaPrueba
-Esto es una prueba de la rama patata.
+Esto es una prueba.
